@@ -6,12 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
         <module name="xx.erp.api.admin" />
+        <module name="xx.erp.api.basics" />
         <module name="xx.erp.infrastructure" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
       <module name="xx.erp.api.admin" target="1.8" />
+      <module name="xx.erp.api.basics" target="1.8" />
       <module name="xx.erp.infrastructure" target="1.5" />
     </bytecodeTargetLevel>
   </component>

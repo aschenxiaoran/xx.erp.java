@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/xx.erp.api.admin/admin.iml" filepath="$PROJECT_DIR$/xx.erp.api.admin/admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/xx.erp.api.admin/xx.erp.api.admin.iml" filepath="$PROJECT_DIR$/xx.erp.api.admin/xx.erp.api.admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xx.erp.api.basics/xx.erp.api.basics.iml" filepath="$PROJECT_DIR$/xx.erp.api.basics/xx.erp.api.basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/xx.erp.infrastructure/xx.erp.infrastructure.iml" filepath="$PROJECT_DIR$/xx.erp.infrastructure/xx.erp.infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/xx.erp.java.iml" filepath="$PROJECT_DIR$/xx.erp.java.iml" />
     </modules>

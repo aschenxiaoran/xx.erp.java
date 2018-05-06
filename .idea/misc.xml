@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/xx.erp.infrastructure/pom.xml" />
         <option value="$PROJECT_DIR$/xx.erp.api.admin/pom.xml" />
+        <option value="$PROJECT_DIR$/xx.erp.api.basics/pom.xml" />
       </list>
     </option>
   </component>
